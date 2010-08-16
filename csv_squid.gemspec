@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name = "csv_squid"
-  spec.version = "0.0.2"
+  spec.version = "0.0.1"
   spec.date = "2010-8-10"
   spec.authors = ["dbiser"]
   spec.email = "dbiser@optoro.com"
